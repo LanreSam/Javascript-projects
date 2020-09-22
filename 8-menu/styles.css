@@ -201,6 +201,7 @@ Menu
   margin-bottom: 4rem;
   display: flex;
   justify-content: center;
+  Width: 50%;
 }
 .filter-btn {
   background: transparent;
