@@ -184,7 +184,7 @@ Menu
   width: 10vw;
 }
 .tagline{
-  letter-spacing: 0.2rem;
+  letter-spacing: 0.13rem;
 }
 .title {
   text-align: center;
@@ -199,9 +199,10 @@ Menu
 }
 .btn-container {
   margin-bottom: 4rem;
-  display: flex;
-  justify-content: center;
+  /*display: flex;
+  justify-content: center; */
   Width: 50%;
+
 }
 .filter-btn {
   background: transparent;
