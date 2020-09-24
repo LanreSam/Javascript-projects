@@ -54,7 +54,7 @@ const menu = [
     id: 7,
     title: "Business card",
     category: "card",
-    price: "2000",
+    price: "1500",
     img: "./images/9.jpg",
     desc: `Amazing business card designs for your business awaits you today at SamGraphics`,
   },
