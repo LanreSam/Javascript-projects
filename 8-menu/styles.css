@@ -183,6 +183,9 @@ Menu
   margin-bottom: 10px;
   width: 10vw;
 }
+.tagline{
+  letter-spacing: 0.13rem;
+}
 .title {
   text-align: center;
   margin-bottom: 2rem;
@@ -198,9 +201,17 @@ Menu
   margin-right: auto;
 }
 .btn-container {
+<<<<<<< HEAD
   margin-bottom: 3rem;
   display: flex;
   justify-content: center;
+=======
+  margin-bottom: 4rem;
+  /*display: flex;
+  justify-content: center; */
+  Width: 50%;
+
+>>>>>>> ee1003abbd2d95395e5dddb670b5c25ac79695a4
 }
 .filter-btn {
   background: transparent;
