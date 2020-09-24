@@ -15,7 +15,7 @@ const menu = [
     category: "logo",
     price: 2000,
     img: "./images/mockup2.jpg",
-    desc: `You can beautify your logo by making it look more realistic. Also you can convert your already amde logo to 3d`,
+    desc: `You can beautify your logo by making it look more realistic. Also you can convert your already made logo to 3d`,
   },
   {
     id: 3,
@@ -31,8 +31,8 @@ const menu = [
     category: "banner",
     price: "price varies",
     img: "./images/oou2.jpg",
-    desc: `Do you want people in your environment to be aware of all what your business is all about?. 
-            Then contact us to get an amazing banner indifferent sizes today`,
+    desc: `Do you want people in your environment to be aware of what your business is all about?. 
+            Then contact us to get an amazing banners in different sizes today`,
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const menu = [
     category: "branding",
     price: "price varies",
     img: "./images/brand.jpg",
-    desc: `Have you always wanted to on top in your business?. Brand your business today with SamGraphics.
+    desc: `Have you always wanted to be on top in your business?. Brand your business today with SamGraphics.
           Be rest assured to get amazing branding tactics and great designs that will
           move your business to the next level.`,
   },
@@ -67,7 +67,7 @@ const menu = [
     price: "2000-5000",
     img: "./images/flier.jpg",
     desc: `One of the best way to market your business after identifying your niche is to get an
-          amazing flier for your designs. A flier can go a long a way to help grow your business
+          amazing flier for your business adverts. A flier can go a long a way to help grow your business
             beyond your wildest imagination.`,
   },
   {
@@ -100,7 +100,7 @@ function diplayMenuItems(menuItems) {
           <div class="item-info">
             <header>
               <h4>${item.title}</h4>
-              <h4 class="price">$${item.price}</h4>
+              <h4 class="price">#${item.price}</h4>
             </header>
             <p class="item-text">
               ${item.desc}
