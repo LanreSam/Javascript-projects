@@ -113,8 +113,8 @@ p {
     line-height: 1;
   }
 }
-/*  global classes */
 
+/*  global classes */
 .btn {
   text-transform: uppercase;
   background: transparent;
@@ -137,7 +137,6 @@ p {
 .section {
   padding: 5rem 0;
 }
-
 .section-center {
   width: 90vw;
   margin: 0 auto;
@@ -148,11 +147,13 @@ p {
     width: 95vw;
   }
 }
+/*
 main {
   min-height: 100vh;
   display: grid;
   place-items: center;
 }
+*/
 /*
 =============== 
 Questions
