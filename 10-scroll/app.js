@@ -38,7 +38,7 @@ window.addEventListener('scroll', function () {
     }
 
     if (scrollHeight > 500) {
-        console.log("helo");
+        //console.log("helo");
         topLink.classList.add('show-link');
     } else {
         topLink.classList.remove('show-link');
