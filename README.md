@@ -3,6 +3,7 @@ This repository consists of all my javascript projects.
 
 
 ## <a href="https://lanresam.github.io/Javascript-projects/1-color-flipper/">1-Color-Flipper</a>
+<a href="https://lanresam.github.io/Javascript-projects/1-color-flipper/">Check out link</a>
 ![1-color-flipper](https://github.com/LanreSam/Javascript-projects/blob/master/1-color-flipper/color-flipper.jpg)
 
 ## 2-Counter
