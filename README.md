@@ -1,5 +1,5 @@
 # Javascript-projects
-This repository consists of all my javascript projects.
+This repository consists of some of my javascript projects.
 
 
 ## 1-Color-Flipper
